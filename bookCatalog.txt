@@ -1,0 +1,24 @@
+Title: t1
+Author: a1
+Category: ROMANCE
+Publishing Year: 1999
+Number of Pages: 200
+Number of Copies: 2
+Number of available Copies: 2
+
+Title: t2
+Author: A2
+Category: ROMANCE
+Publishing Year: 2010
+Number of Pages: 300
+Number of Copies: 3
+Number of available Copies: 3
+
+Title: TEEST
+Author: testA
+Category: ROMANCE
+Publishing Year: 200
+Number of Pages: 400
+Number of Copies: 1
+Number of available Copies: 1
+

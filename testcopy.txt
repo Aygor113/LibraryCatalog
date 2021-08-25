@@ -1,0 +1,77 @@
+Title: title
+Author: author
+Category: ROMANCE
+Publishing Year: 20201
+Number of Pages: 200
+Number of Copies: 2
+
+Title: TESCIIKKKKK
+Author: AUTORTEEEST
+Category: FANTASY
+Publishing Year: Year
+Number of Pages: 400
+Number of Copies: 5
+
+Title: 1
+Author: 2
+Category: ROMANCE
+Publishing Year: 3
+Number of Pages: 4
+Number of Copies: 5
+
+Title: 5
+Author: 5
+Category: ROMANCE
+Publishing Year: 3
+Number of Pages: 4
+Number of Copies: 5
+
+Title: TESCIIKKKKK
+Author: AUTORTEEEST
+Category: FANTASY
+Publishing Year: Year
+Number of Pages: 400
+Number of Copies: 5
+
+Title: 1
+Author: 2
+Category: ROMANCE
+Publishing Year: 3
+Number of Pages: 4
+Number of Copies: 5
+
+Title: 5
+Author: 5
+Category: ROMANCE
+Publishing Year: 3
+Number of Pages: 4
+Number of Copies: 5
+
+Title: title
+Author: author
+Category: ROMANCE
+Publishing Year: 2020
+Number of Pages: 200
+Number of Copies: 2
+
+Title: TESCIIKKKKK
+Author: AUTORTEEEST
+Category: FANTASY
+Publishing Year: Year
+Number of Pages: 400
+Number of Copies: 5
+
+Title: 1
+Author: 2
+Category: ROMANCE
+Publishing Year: 3
+Number of Pages: 4
+Number of Copies: 5
+
+Title: 5
+Author: 5
+Category: ROMANCE
+Publishing Year: 3
+Number of Pages: 4
+Number of Copies: 5
+
